@@ -89,10 +89,10 @@ From selecting learning paths to coding in an in-browser IDE, CodeSphere makes l
 
 
 ## 👨‍💻 Author
-
+**Aman Kotnala**
 **Abhay Mall**  
 B.E. CSE | Chandigarh University  
-Passionate Full Stack Developer | Blockchain Enthusiast
+
 
 
 ## 🌈 Show Your Support
