@@ -1,0 +1,51 @@
+
+/* body{
+	text-align: center !important;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+} */
+
+.progress-section {
+    margin: 20px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 30%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#contentDisplay p {
+    display: none;
+    cursor: pointer;
+}
+
+#contentDisplay p.show {
+    display: block;
+}
+
+#videoGallery img {
+    width: 100px;
+    cursor: pointer;
+}
