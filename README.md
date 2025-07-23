@@ -89,7 +89,7 @@ From selecting learning paths to coding in an in-browser IDE, CodeSphere makes l
 
 
 ## 👨‍💻 Author
-**Aman Kotnala**
+**Aman Kotnala**,
 **Abhay Mall**  
 B.E. CSE | Chandigarh University  
 
